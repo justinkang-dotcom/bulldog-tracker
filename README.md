@@ -89,13 +89,9 @@ No environment variables are required.
 
 ## Demo captures
 
-Drop a Cursor screenshot and a walkthrough video here before you submit.
-
 ![App screenshot](docs/screenshot.png)
 
-<!-- Replace docs/screenshot.png with a capture of the live map. -->
-
-**Demo video:** add `docs/demo.mp4` (or a link) showing drop → upvote → expire.
+**Demo video:** add a 1–2 min walkthrough link (YouTube / Drive) in this README showing drop → upvote → expire, or place `docs/demo.mp4` here.
 
 ## Privacy
 
