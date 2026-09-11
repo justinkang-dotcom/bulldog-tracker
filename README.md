@@ -91,7 +91,9 @@ No environment variables are required.
 
 ![App screenshot](docs/screenshot.png)
 
-**Demo video:** add a 1–2 min walkthrough link (YouTube / Drive) in this README showing drop → upvote → expire, or place `docs/demo.mp4` here.
+![Cursor open with Bulldog-Tracker](docs/cursor-screenshot.png)
+
+**Demo video:** [1–2 min walkthrough (drop → upvote → expire)](https://www.youtube.com/watch?v=ubzA6JQ2_Tc)
 
 ## Privacy
 
