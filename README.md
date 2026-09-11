@@ -89,9 +89,9 @@ No environment variables are required.
 
 ## Demo captures
 
-![App screenshot](docs/screenshot.png)
-
 ![Cursor open with Bulldog-Tracker](docs/cursor-screenshot.png)
+
+![Bulldog Tracker app](docs/app-screenshot.png)
 
 **Demo video:** [1–2 min walkthrough (drop → upvote → expire)](https://www.youtube.com/watch?v=ubzA6JQ2_Tc)
 
